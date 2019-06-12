@@ -1,6 +1,6 @@
 {
     "engines": {
-    "node": "12.4.0",
+    "node": "12.4.0"
 },
   "name": "new_world",
   "version": "0.1.0",
